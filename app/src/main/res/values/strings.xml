@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculatorCat</string>
+    <string name="operand_1">Operando 1</string>
+    <string name="operand_2">Operando 2</string>
+    <string name="add">Sumar</string>
+    <string name="subtract">Restar</string>
+    <string name="multiply">Multiplicar</string>
+    <string name="divide">Dividir</string>
+</resources>
